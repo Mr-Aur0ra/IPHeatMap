@@ -1,0 +1,6 @@
+tqdm
+sqlalchemy
+cartopy
+pycountry
+matplotlib
+PySide2
