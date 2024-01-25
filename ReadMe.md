@@ -47,7 +47,7 @@ cd IPHeatMap
 python3 map.py
 ```
 
-<video src="./img/demo.mp4"></video>
+![demo](./img/demo.gif)
 
 ## License
 
